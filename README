@@ -1,0 +1,8 @@
+Zaleznosci:
+Polski model glosowy: https://github.com/rhasspy/pl_deepspeech-jaco
+Biblioteka deepspeech: https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/native_client.amd64.cpu.win.tar.xz
+
+Uzycie:
+	PROGRAM model [scorer]
+model: sciezka do modelu
+scorer: sciezka do scorera
